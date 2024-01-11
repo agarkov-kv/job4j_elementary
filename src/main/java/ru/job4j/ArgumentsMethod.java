@@ -14,5 +14,3 @@ public class ArgumentsMethod {
         ArgumentsMethod.hello(name, age);
     }
 }
-
-// задача Программа должна 4 раза вывести на консоль "Hello, Job4j, age = 6".
