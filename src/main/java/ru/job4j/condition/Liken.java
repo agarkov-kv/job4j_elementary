@@ -14,4 +14,5 @@ public class Liken {
         result = first == second;
                 System.out.println(result);
     }
+
 }
