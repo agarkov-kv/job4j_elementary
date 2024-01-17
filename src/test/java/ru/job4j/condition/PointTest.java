@@ -5,7 +5,7 @@ import static org.assertj.core.api.Assertions.*;
 
 class PointTest {
     @Test
-    void when36to68then1Dot118() {
+    void when36to68then1Dot89() {
         double expected = 1.89;
         int x1 = 3;
         int y1 = 6;
