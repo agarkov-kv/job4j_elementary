@@ -27,5 +27,4 @@ class DummyBotTest {
         String expected = "I don't know. Please, ask another question.";
         assertThat(result).isEqualTo(expected);
     }
-
 }
