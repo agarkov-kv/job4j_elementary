@@ -8,5 +8,6 @@ public class Task21 {
         System.out.println("* " + fullName + " *");
         System.out.println("* " + phoneNumber + "    *");
         System.out.print("************************");
+
     }
 }
