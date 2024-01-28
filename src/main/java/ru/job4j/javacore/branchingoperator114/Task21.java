@@ -9,6 +9,3 @@ public class Task21 {
         System.out.println(num1 + " " + num2 + " " + num3);
     }
 }
-// 116 / 100 = 1
-// 205 / 10  10 = 0
-// 116 % 100 % 10
