@@ -8,5 +8,4 @@ public class Task24 {
             System.out.println(num1 + "+" + num2);
         }
 }
-// 19 / 10 * 10 = 19
-// 19
+
