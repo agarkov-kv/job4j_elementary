@@ -1,8 +1,8 @@
 package ru.job4j.javacore.branchingoperator114;
 
-public class Task27 {
+public class Task28 {
     public static void isEnough(int pupils, int chairs) {
-        if (chairs > pupils) {
+        if (pupils / 2 <= chairs || pupils == 0) {
             System.out.println("Да");
         } else {
             System.out.println("Нет");
