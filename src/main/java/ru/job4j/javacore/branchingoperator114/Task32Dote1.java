@@ -11,4 +11,5 @@ public class Task32Dote1 {
         }
         System.out.println(counter);
     }
+
 }
