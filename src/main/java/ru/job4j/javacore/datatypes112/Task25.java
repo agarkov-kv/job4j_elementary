@@ -9,4 +9,3 @@ public class Task25 {
         System.out.println(num1 + "+" + num2 + "+" + num3);
     }
 }
-// 35 =
