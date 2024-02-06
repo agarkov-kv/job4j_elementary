@@ -1,17 +1,17 @@
 package ru.job4j.javacore.branchingoperator114;
 
 public class Task66 {
-    public static void season(int number) {
-        if (number == 12 || number == 1 || number == 2) {
-            System.out.println("Зима");
-        } else if (number == 3 || number == 4 || number == 5) {
-            System.out.println("Весна");
-        } else if (number == 6 || number == 7 || number == 8) {
-            System.out.println("Лето");
-        } else if (number == 9 || number == 10 || number == 11) {
-            System.out.println("Осень");
+    public static void daytime(int number) {
+        if (number == 23 || number == 0 || number > 1 && number < 6) {
+            System.out.println("Ночь");
+        } else if (number > 5 && number < 11) {
+            System.out.println("Утро");
+        } else if (number > 10 && number < 18) {
+            System.out.println("День");
+        } else if (number > 17 && number < 23) {
+            System.out.println("Вечер");
         } else {
-            System.out.println("Не является месяцем");
+            System.out.println("Не является часом");
         }
     }
 }
