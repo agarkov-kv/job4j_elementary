@@ -13,4 +13,5 @@ public class Task55 {
             System.out.println(number % 3);
         }
     }
+
 }
