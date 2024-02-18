@@ -8,4 +8,3 @@ public class Task12 {
         return n;
     }
 }
-// 8 3
