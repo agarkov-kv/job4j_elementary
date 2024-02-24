@@ -19,4 +19,5 @@ public class Task49 {
         }
         System.out.println(numb);
     }
+
 }
