@@ -11,11 +11,9 @@ public class Task63 {
             }
         }
         if (countYes > count - countYes) {
-            String result = "Да";
-            System.out.println(countYes + ", " + result);
+            System.out.println(countYes + ", " + "Да");
         } else {
-            String result = "Нет";
-            System.out.println(countYes + ", " + result);
+            System.out.println(countYes + ", " + "Нет");
         }
     }
 }
