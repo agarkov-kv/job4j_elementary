@@ -14,6 +14,4 @@ public class Task62 {
             System.out.println("Нет");
         }
     }
-    //when5And32145
-    //2 и 3
 }
