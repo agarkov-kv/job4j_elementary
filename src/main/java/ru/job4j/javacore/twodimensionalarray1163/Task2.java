@@ -10,6 +10,7 @@ public class Task2 {
                 break;
             }
         }
+
         return rsl;
     }
 }
